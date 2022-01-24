@@ -1,0 +1,22 @@
+{
+  "name": "cazgem-obs",
+  "version": "0.0.1",
+  "description": "OBS-webhooks.js Integration simplified!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cazgem/obs-js.git"
+  },
+  "author": "Cazgem",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Cazgem/obs-js/issues"
+  },
+  "homepage": "https://github.com/Cazgem/obs-js#readme",
+  "dependencies": {
+    "obs-websocket-js": "^4.0.1"
+  }
+}
